@@ -1,0 +1,25 @@
+CREATE ..\libs\libPaintWidget.a
+ADDMOD debug\UndoStructure.o
+ADDMOD debug\GLayer.o
+ADDMOD debug\ColorBox.o
+ADDMOD debug\GContainer.o
+ADDMOD debug\GObject.o
+ADDMOD debug\GSelectionRect.o
+ADDMOD debug\GVectorFigure.o
+ADDMOD debug\GuiUtils.o
+ADDMOD debug\PWE.o
+ADDMOD debug\PaintWidget.o
+ADDMOD debug\RPW.o
+ADDMOD debug\moc_UndoStructure.o
+ADDMOD debug\moc_GLayer.o
+ADDMOD debug\moc_ColorBox.o
+ADDMOD debug\moc_GContainer.o
+ADDMOD debug\moc_GObject.o
+ADDMOD debug\moc_GPropertiesObj.o
+ADDMOD debug\moc_GSelectionRect.o
+ADDMOD debug\moc_GVectorFigure.o
+ADDMOD debug\moc_GuiUtils.o
+ADDMOD debug\moc_PWE.o
+ADDMOD debug\moc_PaintWidget.o
+ADDMOD debug\moc_RPW.o
+SAVE
