@@ -1,0 +1,25 @@
+CREATE ..\libs\libPaintWidget.a
+ADDMOD release\UndoStructure.o
+ADDMOD release\GLayer.o
+ADDMOD release\ColorBox.o
+ADDMOD release\GContainer.o
+ADDMOD release\GObject.o
+ADDMOD release\GSelectionRect.o
+ADDMOD release\GVectorFigure.o
+ADDMOD release\GuiUtils.o
+ADDMOD release\PWE.o
+ADDMOD release\PaintWidget.o
+ADDMOD release\RPW.o
+ADDMOD release\moc_UndoStructure.o
+ADDMOD release\moc_GLayer.o
+ADDMOD release\moc_ColorBox.o
+ADDMOD release\moc_GContainer.o
+ADDMOD release\moc_GObject.o
+ADDMOD release\moc_GPropertiesObj.o
+ADDMOD release\moc_GSelectionRect.o
+ADDMOD release\moc_GVectorFigure.o
+ADDMOD release\moc_GuiUtils.o
+ADDMOD release\moc_PWE.o
+ADDMOD release\moc_PaintWidget.o
+ADDMOD release\moc_RPW.o
+SAVE
